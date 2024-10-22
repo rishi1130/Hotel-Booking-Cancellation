@@ -18,7 +18,7 @@ Hotel Data: The primary data set used for analysis is the "hotel_booking.csv", c
 ### Data Cleaing/Preapration
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
-3F Handling missing values.
+2. Handling missing values.
 4. Data cleaning and formatting.
 
 
