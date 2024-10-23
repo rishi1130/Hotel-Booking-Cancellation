@@ -1,24 +1,26 @@
 Report on Analyzed Data  
 
 
-
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/1.png)
 
 The accompanying bar graph shows the percentage of reservations that are canceled
 and those that are not. It is obvious that there are still a significant number of
 reservations that have not been canceled. There are still 37% of clients who canceled
 their reservation, which has a significant impact on the hotels' earnings.
 
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/2.png)
 
 In comparison to resort hotels, city hotels have more bookings. It's possible that resort
 hotels are more expensive than those in cities.
 
-  
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/3.png)
+
 The line graph above shows that, on certain days, the average daily rate for a city hotel
 is less than that of a resort hotel, and on other days, it is even less. It goes without
 saying that weekends and holidays may see a rise in resort hotel rates.
  
 
-  
+ ![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/4.png)
   
   
   We have developed the grouped bar graph to analyze the months with the highest and
@@ -27,7 +29,7 @@ number of confirmed reservations and the number of canceled reservations is larg
 in the month of August. whereas January is the month with the most canceled
 reservations.
 
-
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/5.png)
 
 This bar graph demonstrates that cancellations are most common when prices are
 greatest and are least common when they are lowest. Therefore, the cost of the
@@ -35,7 +37,7 @@ accommodation is solely responsible for the cancellation.
 Now, let's see which country has the highest reservation canceled. The top country is
 Portugal with the highest number of cancellations.
 
-
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/7.png)
 
 
 Let's check the area from where guests are visiting the hotels and making reservations.
@@ -44,7 +46,7 @@ clients come from online travel agencies, whereas 27% come from groups. Only 4% 
 clients book hotels directly by visiting them and making reservations.
 
 
-
+![image](https://github.com/rishi1130/Hotel-Booking-Cancellation/blob/b3c95e26050dde69a8ff7375e23c609a667afda6/images/8.png)
 
 As seen in the graph, reservations are canceled when the average daily rate is higher
 than when it is not canceled. It clearly proves all the above analysis, that the higher
