@@ -1,9 +1,17 @@
 Report on Analyzed Data  
 
+
+
+
+The accompanying bar graph shows the percentage of reservations that are canceled
+and those that are not. It is obvious that there are still a significant number of
+reservations that have not been canceled. There are still 37% of clients who canceled
+their reservation, which has a significant impact on the hotels' earnings.
+
+
 In comparison to resort hotels, city hotels have more bookings. It's possible that resort
 hotels are more expensive than those in cities.
 
-  
   
 The line graph above shows that, on certain days, the average daily rate for a city hotel
 is less than that of a resort hotel, and on other days, it is even less. It goes without
